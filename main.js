@@ -133,7 +133,7 @@ require([
           field: "mag",
           axis: "all",
           stops: [
-            { value: 0.5, size: 4000, label: "<15%" },
+            { value: 0.1, size: 4000, label: "<15%" },
             { value: 4, size: 20000, label: "25%" }
           ]
         },
