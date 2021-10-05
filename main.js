@@ -144,8 +144,8 @@ require([
             title: "Magnitude"
           },
           stops: [
-            { value: 2, color: [254, 240, 217], label: "3 - 5" },
-            { value: 4, color: [179, 0, 0], label: ">7" }
+            { value: 2, color: [254, 240, 217], label: "2 - 4" },
+            { value: 3, color: [179, 0, 0], label: ">4" }
           ]
         }
       ]
