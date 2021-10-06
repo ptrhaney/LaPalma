@@ -1,4 +1,4 @@
-       time,     latitude,    longitude,depth,        mag,place
+time,latitude,longitude,depth,mag,place
 2021-12-09,28.57,-17.83,0.1,5,La Palma volcano
 2021-01-09,28.2406,-16.6664,12,0.6,NW VILAFLOR DE CHASNA.ITF
 2021-01-09,28.1732,-16.6438,16,0.5,NW VILAFLOR DE CHASNA.ITF
