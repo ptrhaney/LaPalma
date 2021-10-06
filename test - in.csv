@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2021-08-12T18:35:20.989Z,-58.4513,-25.327,55.73,8.1,mww,,77,7.47,0.64,us,us6000f53e,2021-09-08T17:46:16.078Z,South Sandwich Islands region,earthquake,9.2,4.6,0.033,86,reviewed,us,us
-2021-07-29T06:15:49.188Z,55.3635,-157.8876,35,8.2,mww,,,,0.95,ak,ak0219neiszm,2021-10-03T05:23:02.040Z,"99 km SE of Perryville, Alaska",earthquake,,0,,,reviewed,ak,ak
-2021-03-04T19:28:33.178Z,-29.7228,-177.2794,28.93,8.1,mww,,21,0.739,0.69,us,us7000dflf,2021-06-24T14:48:36.243Z,"Kermadec Islands, New Zealand",earthquake,7.7,3.3,0.034,81,reviewed,us,us
+2021-08-12T18:35:20.989Z,-58.4513,-25.327,55.73,5,mww,,77,7.47,0.64,us,us6000f53e,2021-09-08T17:46:16.078Z,South Sandwich Islands region,earthquake,9.2,4.6,0.033,86,reviewed,us,us
+2021-07-29T06:15:49.188Z,55.3635,-157.8876,35,5,mww,,,,0.95,ak,ak0219neiszm,2021-10-03T05:23:02.040Z,"99 km SE of Perryville, Alaska",earthquake,,0,,,reviewed,ak,ak
+2021-03-04T19:28:33.178Z,-29.7228,-177.2794,28.93,5,mww,,21,0.739,0.69,us,us7000dflf,2021-06-24T14:48:36.243Z,"Kermadec Islands, New Zealand",earthquake,7.7,3.3,0.034,81,reviewed,us,us
 2021-03-04T19:28:33.178Z,28.57,-17.83,0.1,5,,,,,,,,,La Palma,,,,,,,,
 2021-08-12T18:35:20.989Z,28.2406,-16.6664,12,0.6,,,,,,,,,NW VILAFLOR DE CHASNA.ITF,,,,,,,,
 ,28.1732,-16.6438,16,0.5,,,,,,,,,NW VILAFLOR DE CHASNA.ITF,,,,,,,,
