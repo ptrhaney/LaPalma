@@ -134,7 +134,7 @@ require([
           axis: "all",
           stops: [
             { value: 0.1, size: 4000, label: "<15%" },
-            { value: 4, size: 12000, label: "25%" }
+            { value: 4, size: 8000, label: "25%" }
           ]
         },
         {
@@ -144,7 +144,7 @@ require([
             title: "Magnitude"
           },
           stops: [
-            { value: 2, color: [254, 240, 217], label: "2 - 4" },
+            { value: 1, color: [254, 240, 217], label: "2 - 4" },
             { value: 3, color: [179, 0, 0], label: ">4" }
           ]
         }
