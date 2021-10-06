@@ -107,7 +107,7 @@ require([
 
   // define the earthquakes layer
   const earthquakeLayer = new CSVLayer({
-    url: "./fixed La Palma.csv",
+    url: "./test - in.csv",
     elevationInfo: exaggeratedElevation,
     screenSizePerspectiveEnabled: false,
     renderer: {
